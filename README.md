@@ -99,7 +99,7 @@ Features:
 
 # 📊 GitHub Stats
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiSingh0103&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiSingh0103&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -111,7 +111,7 @@ Features:
 
 # 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiSingh0103&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiSingh0103&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
